@@ -1,110 +1,101 @@
 <div align="center">👨‍💻 Luiz Guilherme
 
-ADS Student | Backend Developer in Progress | Cybersecurity Enthusiast
+Estudante de Análise e Desenvolvimento de Sistemas
 
-Transformando conhecimento em projetos reais.
+Python | Backend | Cybersecurity | Tecnologia
 
-""GitHub" (https://img.shields.io/badge/GitHub-guijesus10-181717?style=for-the-badge&logo=github)" (https://github.com/guijesus10)
-""DIO" (https://img.shields.io/badge/DIO-Perfil-8A2BE2?style=for-the-badge)" (https://web.dio.me/users/lg8941398?tab=achievements)
-""Profile Views" (https://komarev.com/ghpvc/?username=guijesus10&style=for-the-badge&color=0891b2)" (https://github.com/guijesus10)
+<a href="https://github.com/guijesus10">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://web.dio.me/users/lg8941398?tab=achievements">
+  <img src="https://img.shields.io/badge/DIO-7B2CBF?style=for-the-badge&logoColor=white" alt="DIO"/>
+</a><img src="https://komarev.com/ghpvc/?username=guijesus10&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=0891b2&style=for-the-badge" alt="Visualizações do perfil"/></div>---
 
-</div>---
+🚀 Sobre mim
 
-🧑‍🚀 Sobre mim
+Olá! Sou Luiz Guilherme, estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac DF.
 
-Olá! Sou Luiz Guilherme, estudante de Análise e Desenvolvimento de Sistemas pelo Senac DF.
+Estou construindo minha trajetória na área de tecnologia, desenvolvendo conhecimentos em programação, lógica computacional e desenvolvimento de sistemas.
 
-Estou construindo minha trajetória na tecnologia através de estudos, projetos práticos e aprendizado contínuo.
+Tenho interesse especial em desenvolvimento Backend com Python e Cibersegurança. Gosto de aprender na prática, transformar conhecimentos em projetos e buscar evolução constante.
 
-Atualmente, meus principais interesses são:
+Atualmente, estou focado em:
 
-- 🐍 Desenvolvimento Backend com Python.
-- 🔐 Segurança Cibernética.
-- 💻 Desenvolvimento de aplicações e sistemas.
-- 🚀 Automação e otimização de processos.
-- 🌐 Tecnologia e inovação.
-
-Acredito que a melhor maneira de aprender programação é colocando o conhecimento em prática.
-
----
-
-🎯 Atualmente estudando
-
-Área| Foco
-Python| Lógica e desenvolvimento Backend
-Git e GitHub| Versionamento e projetos
-Segurança Cibernética| Fundamentos de segurança
-Desenvolvimento| Construção de aplicações
-Banco de dados| Aprendizado e evolução
-
----
+- 🐍 Desenvolvimento com Python.
+- 💻 Lógica de programação e resolução de problemas.
+- 🔐 Fundamentos de Cibersegurança.
+- ⚙️ Desenvolvimento Backend.
+- 🌐 Git e GitHub.
+- 📚 Aprendizado contínuo por meio de projetos.
 
 🛠️ Tecnologias e ferramentas
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" /></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" /></div>Conhecimentos em desenvolvimento:
 
-📂 Projetos em destaque
+- Python — em aprendizado e desenvolvimento de projetos.
+- C — conhecimentos básicos.
+- Lógica de programação.
+- Estruturas condicionais e de repetição.
+- Funções e variáveis.
+- Git e GitHub.
+
+📂 Projetos
 
 💰 Sistema de Controle Financeiro
 
-Projeto pessoal desenvolvido para praticar programação e construção de sistemas.
+Projeto desenvolvido para praticar programação e organização de dados financeiros.
 
-Objetivo: desenvolver uma aplicação para organização e controle financeiro.
+🔗 Repositório: "Sistema de Controle Financeiro" (https://github.com/guijesus10/sistema-controle-financeiro)
 
-""Repositório" (https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github)" (https://github.com/guijesus10/sistema-controle-financeiro)
+🌱 DIO Lab Open Source
 
-🌐 DIO — Open Source
+Repositório criado durante atividades de aprendizado e prática com GitHub e projetos open source.
 
-Laboratório de aprendizado e contribuição para projetos Open Source.
-
-""Repositório" (https://img.shields.io/badge/VER_PROJETO-8A2BE2?style=for-the-badge&logo=github)" (https://github.com/guijesus10/dio-lab-open-source)
+🔗 Repositório: "DIO Lab Open Source" (https://github.com/guijesus10/dio-lab-open-source)
 
 ---
 
-📚 Formação acadêmica
+🎓 Formação acadêmica
 
-🎓 Análise e Desenvolvimento de Sistemas
+Tecnologia em Análise e Desenvolvimento de Sistemas
 
-Faculdade Senac DF — Em andamento.
+Faculdade Senac DF — 2026 · Em andamento.
 
-🏅 Cursos e qualificações
+📜 Cursos e qualificações
 
-- White Belt Six Sigma — RL & Associados (2026).
-- Santander 2025 — Backend com Python (DIO, em andamento).
-- DevOpsDays — Faculdade Senac DF (2026).
-- Oficina prática: Criação de Game com Unity e IA (2026).
-- Aula magna: A Importância da Segurança Cibernética no Ambiente Empresarial (2026).
-
-"Ver minhas conquistas na DIO" (https://web.dio.me/users/lg8941398?tab=achievements)
-
----
+- White Belt Six Sigma — RL&Associados (2026).
+- Santander 2025 — Backend com Python (DIO).
+- DevOpsDays — Senac DF (2026).
+- Workshop de Desenvolvimento de Jogos com Unity e Inteligência Artificial — Senac DF (2026).
+- Palestra sobre Cibersegurança — Senac DF (2026).
 
 💼 Experiência profissional
 
 Rede D'Or — Aprendiz de Auxiliar Administrativo
 
-Atuação em rotinas administrativas, organização de documentos, atendimento e controle de planilhas e processos internos.
+Agosto de 2026 — Atual.
 
-Digispy — Assistente Operacional / Administrativo
+Digispy — Operacional
 
-Experiência com sistemas digitais, plataformas online, organização de processos e suporte operacional.
+Experiência com atividades operacionais e suporte às demandas relacionadas a lojas e plataformas digitais.
 
----
+📊 Estatísticas do GitHub
 
-📊 GitHub Analytics
+<div align="center"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=guijesus10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijesus10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/><img width="70%" src="https://streak-stats.demolab.com?user=guijesus10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></div>---
 
-<div align="center"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=guijesus10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijesus10&layout=compact&theme=tokyonight"/><img width="80%" src="https://streak-stats.demolab.com?user=guijesus10&theme=tokyonight&hide_border=true"/></div>---
+🎯 Objetivo
 
-🌎 Vamos nos conectar?
+Meu objetivo é evoluir como profissional de tecnologia, conquistar oportunidades na área de desenvolvimento e aprofundar meus conhecimentos em Backend e Cibersegurança.
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)" (https://github.com/guijesus10)
+Acredito que consistência, prática e curiosidade são fundamentais para crescer na tecnologia.
 
-""DIO" (https://img.shields.io/badge/Digital_Innovation_One-8A2BE2?style=for-the-badge)" (https://web.dio.me/users/lg8941398?tab=achievements)
+Um projeto de cada vez. Um aprendizado de cada vez. Sempre evoluindo. 🚀
 
-</div>---
+<div align="center">📫 Vamos nos conectar?
 
-<div align="center">🚀 "Um projeto de cada vez. Uma evolução todos os dias."
-
-Obrigado por visitar meu perfil!
-
-</div>
+<a href="https://github.com/guijesus10">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://web.dio.me/users/lg8941398?tab=achievements">
+  <img src="https://img.shields.io/badge/Meu%20perfil%20DIO-7B2CBF?style=for-the-badge&logoColor=white" alt="DIO"/>
+</a></div>
